@@ -1,0 +1,10 @@
+C:\Users\TOPTECH\source\repos\project 3 simple calculator\bin\Release\project 3 simple calculator.exe.config
+C:\Users\TOPTECH\source\repos\project 3 simple calculator\bin\Release\project 3 simple calculator.exe
+C:\Users\TOPTECH\source\repos\project 3 simple calculator\bin\Release\project 3 simple calculator.pdb
+C:\Users\TOPTECH\source\repos\project 3 simple calculator\obj\Release\project 3 simple calculator.csproj.AssemblyReference.cache
+C:\Users\TOPTECH\source\repos\project 3 simple calculator\obj\Release\project_3_simple_calculator.Form1.resources
+C:\Users\TOPTECH\source\repos\project 3 simple calculator\obj\Release\project_3_simple_calculator.Properties.Resources.resources
+C:\Users\TOPTECH\source\repos\project 3 simple calculator\obj\Release\project 3 simple calculator.csproj.GenerateResource.cache
+C:\Users\TOPTECH\source\repos\project 3 simple calculator\obj\Release\project 3 simple calculator.csproj.CoreCompileInputs.cache
+C:\Users\TOPTECH\source\repos\project 3 simple calculator\obj\Release\project 3 simple calculator.exe
+C:\Users\TOPTECH\source\repos\project 3 simple calculator\obj\Release\project 3 simple calculator.pdb
